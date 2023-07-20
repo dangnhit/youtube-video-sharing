@@ -1,5 +1,8 @@
 # Youtube Video Sharing - Remitano Test
 
+Web App: https://github.com/dangnhit/ytb-video-sharing-web-apps
+Backend App: https://github.com/dangnhit/ytb-video-sharing-api-gateways
+
 ## Introduction
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
